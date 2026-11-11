@@ -38,8 +38,6 @@
 
 ---
 
-### 💻 Технології та інструменти
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,linux,git,vscode,figma" alt="Tech Stack" />
 </p>
